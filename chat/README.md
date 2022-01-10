@@ -1,15 +1,13 @@
-# Chatroom-with-Nodejs-React
+Chat  
 
-This realtime chatroom work with nodejs, react, mongoose
-
-Backend:
-Ejecutar
-npm i / npm install
-Servidor en puerto 5000
+BACKEND:  
+Ejecutar  
+Servidor en puerto 5000  
+npm i / npm install  
 npm start / npm run dev
 
-Frontend:
-Ejecutar
-npm i / npm install
-Servidor en puerto 3000
+FRONTED:  
+Ejecutar 
+Servidor en puerto 3000    
+npm i / npm install  
 npm start
